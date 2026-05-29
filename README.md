@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hello! I'm Mohammad Samiei 👋 | سلام! من محمد سمیعی هستم 👋
 
-<!--
-**m-sammiei-dev/m-sammiei-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌐 About Me / درباره من
+**English:**
+Computer Engineering student (4th Semester) with a passion for Web Development. I'm currently building my skills to create modern, responsive, and user-friendly web applications.
 
-Here are some ideas to get you started:
+**فارسی:**
+دانشجوی ترم ۴ مهندسی کامپیوتر با علاقه فراوان به توسعه وب. در حال تقویت مهارت‌هایم برای ساخت وب‌سایت‌های مدرن، ریسپانسیو و کاربرپسند هستم.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Technical Skills / مهارت‌های فنی
+- **Programming:** C++
+- **Web Development:** HTML5, CSS3
+- **Tools:** VS Code, Git, GitHub
+- **Office:** Microsoft Word, PowerPoint, Excel
+
+---
+
+## 🚀 Academic Projects / پروژه‌های دانشگاهی
+- **Bank Simulation Website:** UI/UX implementation for banking operations.
+- **Chess Game Logic:** Design and implementation of chess rules using C++.
+- **4-Bit Multiplier:** Digital logic design and simulation.
+
+---
+
+## 📬 Contact / ارتباط
+- Email: mohammad.sammiei.dev@gmail.com
