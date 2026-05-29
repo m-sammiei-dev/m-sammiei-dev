@@ -9,7 +9,7 @@ Computer Engineering student (4th Semester) with a passion for Web Development. 
 ## 🛠 Technical Skill
 - **Programming:** C++
 - **Web Development:** HTML5, CSS3
-- **Tools:** VS Code, Git, GitHub
+- **Tools:** VS Code, Clion, Proteus8, Git, GitHub
 - **Office:** Microsoft Word, PowerPoint, Excel
 
 ---
