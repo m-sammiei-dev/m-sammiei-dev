@@ -1,28 +1,27 @@
-# Hello! I'm Mohammad Samiei
+# Hello! I'm Mohammad Samiei 👋
 
-## 🌐 About Me
-
-Computer Engineering student (4th Semester) with a passion for Web Development. I'm currently building my skills to create modern, and user-friendly web applications.
-**Current Status:** 🚀 Open to on-site internship and part-time opportunities in **Shahrood** and **Mashhad**.
-
-
----
+## 🌍 About Me
+Computer Engineering student (4th Semester) with a passion for **Python Development** and **Web Technologies**. I love automating tasks and solving algorithmic challenges.
+- 🚀 **Current Status:** Enhancing Python skills through Scientific Computing.
+- 📍 **Location:** Open to opportunities in **Shahrood** and **Mashhad**.
 
 ## 🛠 Technical Skills
-- **Programming:** C++ (Academic projects)
-- **Web Development:** HTML5, CSS3
-- **Learning Path:** Currently diving deep into **JavaScript** and Responsive Design.
-- **Tools:** VS Code, Clion, Proteus, Git, GitHub
-- **Office:** Microsoft Word, PowerPoint, Excel
 
----
+| Category | Tools |
+| :--- | :--- |
+| **Languages** | Python, C++ |
+| **Web Dev** | HTML5, CSS3, JavaScript (Learning) |
+| **Tools** | Git, GitHub, VS Code, CLion, Proteus |
+| **Office** | Microsoft Word, PowerPoint, Excel |
 
-## 🚀 Academic Projects 
-- **Bank Simulation Website:** UI/UX implementation for banking operations.
+## 📚 Current Learning Journey
+- 🐍 **Python:** Working on Encryption Algorithms (Caesar & Vigenère Ciphers).
+- 🌐 **Web:** Diving deep into Responsive Design and JS Logic.
+
+## 🚀 Key Projects
+- **[Learning-Journey](https://github.com/m-sammiei-dev/Learning-Journey):** A dedicated repository for my Python progress, featuring documented scientific projects.
 - **Chess Game Logic:** Design and implementation of chess rules using C++.
-- **4-Bit Multiplier and more:** Digital logic design and simulation.
+- **Bank Simulation Website:** UI/UX implementation for banking operations.
 
----
-
-## 📬 Contact 
-- Email: mohammad.sammiei.dev@gmail.com
+## 📬 Contact
+- 📧 Email: [mohammad.sammiei.dev@gmail.com](mailto:mohammad.sammiei.dev@gmail.com)
