@@ -17,14 +17,6 @@ Computer Engineering student (4th Semester) with a passion for **Python Developm
 ## 📚 Current Learning Journey
 - 🐍 **Python:** Working on Encryption Algorithms (Caesar & Vigenère Ciphers).
 - 🌐 **Web:** Diving deep into Responsive Design and JS Logic.
-- ## 📊 Weekly Coding Distribution
-```mermaid
-pie title "How I Spend My Coding Time"
-"Python & Algorithms" : 40
-"Web Development (HTML/CSS/JS)" : 30
-"C++ (Academic Projects)" : 20
-"Git & Documentation" : 10
-
 
 ## 🚀 Key Projects
 - **[Learning-Journey](https://github.com/m-sammiei-dev/Learning-Journey):** A dedicated repository for my Python progress, featuring documented scientific projects.
