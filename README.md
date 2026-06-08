@@ -36,13 +36,16 @@ I'm a **4th-semester Computer Engineering student** at Shahrood University of Te
 - **Bank Simulation:** 🏦 A full backend logic implementation for banking systems using C++ and Data Structures.
 
 ---
-
-### 📬 Connect with me:
 ### 📬 Connect with me:
 <p align="left">
-<a href="https://www.linkedin.com/in/mohammad-sammiei-1b5684414/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mohammad Samiei" height="30" width="40" /></a>
-<a href="mailto:mohammad.sammiei.dev@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="mohammad.sammiei.dev" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/mohammad-sammiei-1b5684414/" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:mohammad.sammiei.dev@gmail.com" target="blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
+
 
 
 ---
