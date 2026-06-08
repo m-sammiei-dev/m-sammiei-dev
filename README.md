@@ -20,7 +20,6 @@ I'm a **4th-semester Computer Engineering student** at Shahrood University of Te
 - 📚 Currently Learning: Linear Algebra for Machine Learning.
 
 ---
-
 ### 📊 GitHub Statistics
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=m-sammiei-dev&show_icons=true&theme=visual_studio_code" />
