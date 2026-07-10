@@ -38,19 +38,10 @@ I'm a **4th-semester Computer Engineering student** at Shahrood University of Te
 ---
 
 ### 📬 Connect with me:
-<p align="left">
-  <a href="https://www.linkedin.com/in/mohammad-sammiei-1b5684414/" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://t.me/Msammiei" target="blank">
-    <img src="https://img.shields.io/badge/Telegram-26A6E1?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
-  <a href="mailto:mohammad.sammiei.dev@gmail.com" target="blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+<div align="center">
 
+[![Telegram](https://img.shields.io/badge/Telegram-@Msammiei-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Msammiei) [![Instagram](https://img.shields.io/badge/Instagram-%24ammiei-e4405f?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/$ammiei) [![Email](https://img.shields.io/badge/Email-mohammad.sammiei.dev%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammad.sammiei.dev@gmail.com)
 
-
+</div>
 ---
 *"The best way to predict the future is to invent it."*
