@@ -1,5 +1,5 @@
 # Hello! I'm Mohammad Samiei 👋
-### 🎓 Computer Engineering Student @ SUT | Aspiring AI Engineer & Python Developer
+### 🎓 Computer Engineering Student | Aspiring AI Engineer & Python Developer
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -12,9 +12,9 @@
 ---
 
 ### 👨‍💻 About Me
-I'm a **4th-semester Computer Engineering student** at Shahrood University of Technology. I have a deep passion for solving algorithmic challenges and I'm currently on a journey to become an **AI Engineer**.
+I'm a **4th-semester Computer Engineering student** at Tehran University of Technology. I have a deep passion for solving algorithmic challenges and I'm currently on a journey to become an **AI Engineer**.
 
-- 🌍 Based in **Mashhad / Shahrood**, Iran.
+- 🌍 Based in **Mashhad / Tehran**, Iran.
 - 🚀 Current Focus: **Data Structures, Scientific Computing, and AI Fundamentals**.
 - 🛠️ Daily Practice: Solving 8kyu to 4kyu challenges on **Codewars**.
 - 📚 Currently Learning: Linear Algebra for Machine Learning.
